@@ -1,0 +1,6 @@
+{
+  "name": "MyTock2",
+  "description": "An interactive Android app to upload, watch, and scroll through full-screen short reels with rich, smooth vertical paging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
